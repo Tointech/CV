@@ -1,1 +1,1 @@
-[Link Webiste](https://tointech.github.io/cv/)
+[Link Page](https://tointech.github.io/cv/)
